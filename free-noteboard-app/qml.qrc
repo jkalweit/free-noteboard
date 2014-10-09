@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DialogModal.qml</file>
+        <file>RectangleFlash.qml</file>
+        <file>RectangleFlashButton.qml</file>
+        <file>TextFieldLabeled.qml</file>
+    </qresource>
+</RCC>
